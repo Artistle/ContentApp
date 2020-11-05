@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396128239473",
+    "firebase_url": "https://luckyboomcoins.firebaseio.com",
+    "project_id": "luckyboomcoins",
+    "storage_bucket": "luckyboomcoins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396128239473:android:a90941318f9d2a13dfc0d0",
+        "android_client_info": {
+          "package_name": "com.coinsboom.lucky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396128239473-fncueq8eps0tg012oke49o8hgcfh30fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4p3P5-SERH4Wrkp4Jk3jCqhseuiuqZSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396128239473-fncueq8eps0tg012oke49o8hgcfh30fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
